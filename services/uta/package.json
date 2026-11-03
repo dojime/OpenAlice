@@ -18,7 +18,7 @@
     "@traderalice/uta-protocol": "workspace:*",
     "decimal.js": "^10.6.0",
     "hono": "^4.12.32",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@alpacahq/alpaca-trade-api": "^3.1.3",
