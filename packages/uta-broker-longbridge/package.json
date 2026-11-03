@@ -11,7 +11,7 @@
     "@traderalice/uta-protocol": "workspace:*",
     "decimal.js": "^10.6.0",
     "longbridge": "^4.0.5",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": { "@types/node": "^22.13.4", "tsup": "^8.5.1", "typescript": "^5.9.3" }
 }
